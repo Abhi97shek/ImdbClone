@@ -1,7 +1,7 @@
 const About = () => {
   return (
     <div className="max-w-6xl mx-auto space-x-4">
-        <h1 className="text-2xl font-medium text-amber-600">About</h1>
+        <h1 className="text-2xl font-medium text-amber-600  p-4">About</h1>
         <h1>
             <p className="my-9">
                 Generating random paragraphs can be an excellent way for writers to get their creative flow going at the beginning of the day. 
