@@ -23,6 +23,7 @@ export default async function Home({searchParams}) {
     const response = await axios.request(options);
    
     movies = response.data.results;
+    // console.log(movies)
     // setMovies(response.data);
   return (
       <div>
